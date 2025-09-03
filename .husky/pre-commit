@@ -1,0 +1,2 @@
+echo "⚡ Running lint and format checks on staged files..."
+pnpm lint-staged
